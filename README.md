@@ -1,6 +1,8 @@
 # Quote Generator
 
 Demo: https://tingchun0113.github.io/quote-generator/
+<br>
+<img src="/quoteGenerator.png">
 
 ## Features ⚡️
 
